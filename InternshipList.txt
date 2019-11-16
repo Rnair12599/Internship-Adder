@@ -1,0 +1,15 @@
+AT&T, SWE, 08/21/19, Applied
+Amazon, SWE, 08/12/19, Applied
+BookBub, SWE, 08/22/19, Applied
+Citadel, SWE, 08/13/19, Rejected
+General Mills, SWE, 08/21/19, Applied
+Honeywell, SWE, 08/21/19, Applied
+Hubspot, SWE, 08/22/19, Applied
+Impira, SWE, 08/22/19, Applied
+Lime, SWE, 08/22/19, Applied
+LiveRamp, SWE, 08/22/19, Applied
+Lyft, SWE, 08/21/19, Applied
+Mastercard, SWE, 08/20/19, Applied
+Palantir, SWE, 08/13/2019, Rejected
+Red Ventures, SWE, 08/21/19, Applied
+Stripe, SWE, 08/22/19, Applied
